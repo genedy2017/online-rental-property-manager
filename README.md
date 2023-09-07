@@ -120,7 +120,7 @@ This application can be installed on both Windows and Linux servers.
 Before installing, make sure your server has the following software:
 
 * PHP 7.0 or higher
-* MySQL 5.6 and above; or MariaDB 10 and above.
+* MySQL 5.6 and above (8.0+ recommended); or MariaDB 10 and above.
 	
 Make sure your have access to a MySQL/MariaDB database.
 You might need to set up one in your server control panel.
